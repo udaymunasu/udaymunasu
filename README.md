@@ -1,4 +1,10 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm MUNASU UDAY KUMAR 👋
+
+## Get in Touch
+
+- GitHub: (https://github.com/udaymunasu/udaymunasu/)
+- LinkedIn: linkedin.com/in/munasu-uday-kumar-55a069172
+- Email: udaymunasu311999@gmail.com
 
 I'm passionate about web development and always eager to learn and explore new technologies. Welcome to my GitHub profile! Here you'll find some of my projects and contributions related to web development.
 
@@ -25,16 +31,10 @@ Here are some of the skills and technologies I'm proficient in:
 
 Here are some of the projects I've worked on:
 
-1. **[Project Name](link to project repository)** - Brief description of the project.
+1. **[Social mediaa](link to project repository)** - Brief description of the project.
 2. **[Project Name](link to project repository)** - Brief description of the project.
 3. **[Project Name](link to project repository)** - Brief description of the project.
 
-## Get in Touch
-
-- GitHub: [Your GitHub Profile](link to your GitHub profile)
-- LinkedIn: [Your LinkedIn Profile](link to your LinkedIn profile)
-- Email: [Your Email Address](your@email.com)
-- Twitter: [Your Twitter Handle](link to your Twitter profile)
 
 Feel free to explore my repositories and reach out to me. Let's connect and collaborate!
 
